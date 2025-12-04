@@ -32,8 +32,6 @@ task_3_search_comparison.py
 
 ---
 
----
-
 ## Git
 
 ```bash
