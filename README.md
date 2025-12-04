@@ -32,7 +32,7 @@ task_3_search_comparison.py
 
 ---
 
-## PS
+## CONSOLE
 
 ```bash
 PS C:\Users\dmitz\Documents\GitHub\goit-algo-hw-05> python task_1_hashtable.py        
