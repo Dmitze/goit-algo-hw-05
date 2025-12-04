@@ -3,7 +3,7 @@
 ## Задача 1: Hash Table
 
 ```bash
-python task_1_hashtable.py
+task_1_hashtable.py
 ```
 
 Хеш таблиця. Можна додавати, отримувати та видаляти дані по ключу.
@@ -13,7 +13,7 @@ python task_1_hashtable.py
 ## Задача 2: Двійковий пошук
 
 ```bash
-python task_2_binary_search.py
+task_2_binary_search.py
 ```
 
 Пошук числа в масиві. Повертає скільки разів шукали і яке число найменше але більше за шукане.
@@ -23,7 +23,7 @@ python task_2_binary_search.py
 ## Задача 3: Порівняння алгоритмів
 
 ```bash
-python task_3_search_comparison.py
+task_3_search_comparison.py
 ```
 
 Три способи пошуку підрядка в тексті. Вимірює який найшвидший.
@@ -31,14 +31,6 @@ python task_3_search_comparison.py
 **Результат:** Boyer-Moore найшвидший.
 
 ---
-
-## Файли
-
-- `task_1_hashtable.py` - Задача 1
-- `task_2_binary_search.py` - Задача 2  
-- `task_3_search_comparison.py` - Задача 3
-- `article1.txt` - Текст для тестування завдання 3
-- `article2.txt` - Текст для тестування завдання 3
 
 ---
 
